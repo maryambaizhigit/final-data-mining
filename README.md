@@ -46,6 +46,6 @@ Supervised Machine learning Techniques: + Decision Tree + KNN + Plotting results
 ## Result
 The output of the code is to predict the gender(0-female,1-male).
 
-## Author
-<b>Moldir, Maryam, Aiym, Zhanibek, Assanali</b>
+## Authors
+<b> Baizhigitova Maryam, Kumarbek Moldir, Yermakhan Aiym, Balabayev Zhanibek, Kazhymurat Assanali</b>
 
